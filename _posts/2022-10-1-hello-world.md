@@ -39,8 +39,4 @@ You can see how I just insert my random thoughts into my code a little bit. Kind
 
 Here is a little bit of AI generated art that I have created. Most of this was actually from earlier today (or yesterday, i guess). Ill be adding more AI art in the future, and maybe even art projects that are not AI generated in the future.
 
-![quagmire](https://drive.google.com/uc?export=view&id=1fh7G3-aEf1k5lWb4ob13wnzDFMmSS60N)
-![bedroom](https://drive.google.com/uc?export=view&id=1x8Tka8Y9mMd9P8Cxd8KSz0YEyy4C7fg8)
-![window](https://drive.google.com/uc?export=view&id=1NqtiH4o1ZuWBq1QXAvgf01681z2TbgJy)
-
 So I am still having some problems? The theme im using came with a github actions file that is meant to perform certain tasks to build the site from the markdown and everything. However, it is instead givving me an error, adn the image files are not wanting to load when I run serve the Jekyll app locally.
