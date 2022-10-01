@@ -43,3 +43,4 @@ Here is a little bit of AI generated art that I have created. Most of this was a
 ![bedroom](https://drive.google.com/uc?export=view&id=1x8Tka8Y9mMd9P8Cxd8KSz0YEyy4C7fg8)
 ![window](https://drive.google.com/uc?export=view&id=1NqtiH4o1ZuWBq1QXAvgf01681z2TbgJy)
 
+So I am still having some problems? The theme im using came with a github actions file that is meant to perform certain tasks to build the site from the markdown and everything. However, it is instead givving me an error, adn the image files are not wanting to load when I run serve the Jekyll app locally.
