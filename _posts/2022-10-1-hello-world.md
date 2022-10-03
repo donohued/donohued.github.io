@@ -37,7 +37,11 @@ You can see how I just insert my random thoughts into my code a little bit. Kind
 
 ## Photos
 
-![Gigity](https://i.imgur.com/JXVWdfP.jpg)
+![](https://i.imgur.com/JXVWdfP.jpg)
+![](https://i.imgur.com/OjhPw7G.png)
+![](https://i.imgur.com/RWSpsRW.png)
+![](https://i.imgur.com/UdmFxxS.png)
+![](https://i.imgur.com/WqqRtBb.png)
 
 Here is a little bit of AI generated art that I have created. Most of this was actually from earlier today (or yesterday, i guess). Ill be adding more AI art in the future, and maybe even art projects that are not AI generated in the future.
 
