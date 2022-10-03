@@ -1,7 +1,7 @@
 ---
 title: Hey, How Are Ya?
-date: 2022-10-1
-categories: [random,life]
+date: 2022-10-1 1:13:00 -500
+categories: [Random,Life]
 tags: [blog,programming,ai,art,life]
 ---
 
